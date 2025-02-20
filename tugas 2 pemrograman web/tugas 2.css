@@ -1,0 +1,48 @@
+.judul {
+    color: rgb(11, 11, 124);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2 {
+    color: rgb(11, 11, 124);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+img {
+    position: relative;
+    top: 0px;
+    left: 40%;
+}
+a,
+a:link,
+a:visited,
+a:active{
+    color: rgb(11, 11, 124);
+    text-decoration: none;
+    font-weight: bold;
+    margin: 40px;
+}
+a:hover{
+    color: white;
+    background-color: rgb(11, 11, 124);
+    padding: 5px;
+}
+.navbar {
+    margin: 50px;
+    text-align: center;
+}
+P2 {
+    color: rgb(11, 11, 124);
+    font-size: 30px;
+}
+p {
+    font-size: 20px;
+}
+.judul2 {
+    color: rgb(11, 11, 124);
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif; 
+}
+.list {
+    text-align: left;
+}
